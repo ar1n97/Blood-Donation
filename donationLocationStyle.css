@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FFDEB4;
+    color: #FF6969;
+    font-family: 'Victor Mono', monospace;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 3em;
+}
+
+h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2em;
+    padding-bottom: 30px;
+}
+
+ul{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li{
+    display: flex;
+    font-size: 2em;
+    gap: 500px;
+    align-content: center;
+    background-color: #FF6969;
+    color: #FFDEB4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 10px solid #FFDEB4;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.location-name, .map, .btn{
+    text-align: center;
+    background-color: #FF6969;
+    color: #FFDEB4;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.location-name{
+    flex: 3;
+}
+
+.map, .btn{
+    flex: 1;
+}
+
+
