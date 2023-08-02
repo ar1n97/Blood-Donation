@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FFDEB4;
+    font-family: 'Victor Mono', monospace;
+}
+
+div{
+    width: 1100px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
+}
+
+#hero{ 
+    height: 630px;
+}
+
+h1{
+    color: #FF6969;
+    margin-bottom: 20px;
+    font-size: 3em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 1000px;
+    height: 500px;
+    border: 10px solid red;
+}
+
+#cause{
+    
+}
+
+h2{
+    color: #FF6969;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+
+p{
+    color: #FF6969;
+    font-size: 1.3em;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.topSpace{
+    margin-top: 10px;
+}
+
+h3{
+    font-size: 1.6em;
+    color: #FF6969;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #FF6969;
+}
+
+li{
+    text-align: left;
+    color: #FF6969;
+    font-size: 1.3em;
+    padding-bottom: 2px;
+    list-style-position: inside;
+}
+
+a{
+    font-size: 2em;
+    background-color: #FF6969;
+    color: #FFDEB4;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 2px solid #FF6969;
+    border-radius: 10px;
+}
